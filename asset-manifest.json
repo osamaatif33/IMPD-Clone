@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4eb751f8.css",
-    "main.js": "/react-gh-pages/static/js/main.008b2360.js",
-    "static/js/592.53fdba5b.chunk.js": "/react-gh-pages/static/js/592.53fdba5b.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4eb751f8.css.map": "/react-gh-pages/static/css/main.4eb751f8.css.map",
-    "main.008b2360.js.map": "/react-gh-pages/static/js/main.008b2360.js.map",
-    "592.53fdba5b.chunk.js.map": "/react-gh-pages/static/js/592.53fdba5b.chunk.js.map"
+    "main.css": "/IMPD-Clone/static/css/main.4eb751f8.css",
+    "main.js": "/IMPD-Clone/static/js/main.94964b6a.js",
+    "static/js/592.53fdba5b.chunk.js": "/IMPD-Clone/static/js/592.53fdba5b.chunk.js",
+    "index.html": "/IMPD-Clone/index.html",
+    "main.4eb751f8.css.map": "/IMPD-Clone/static/css/main.4eb751f8.css.map",
+    "main.94964b6a.js.map": "/IMPD-Clone/static/js/main.94964b6a.js.map",
+    "592.53fdba5b.chunk.js.map": "/IMPD-Clone/static/js/592.53fdba5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4eb751f8.css",
-    "static/js/main.008b2360.js"
+    "static/js/main.94964b6a.js"
   ]
 }
